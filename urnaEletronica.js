@@ -21,6 +21,12 @@ programa
     <button type="button" onclick="urnaEletronica()">Começar</button>
     <button type="button" onclick="audioConfirmacao()">"Testar audio"</button>*/
 
+    <button type="button" onclick="urnaEletronica()">"nome botao"</button>
+    <button type="button" onclick="audioConfirmacao()">"Testar audio"</button>
+    <button type="button" onclick="blabla()">"Testar audio"</button>
+    <button type="button" onclick="audioConfirmacao()">"Testar audio"</button>
+    <button type="button" onclick="audioConfirmacao()">"Testar audio"</button>
+
     function escreveNoConsoleAlert() {
         window.alert("Mensagem no Alert\nOutra mensagem\n\nMais uma mensagem")
         {
